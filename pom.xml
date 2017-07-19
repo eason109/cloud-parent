@@ -14,7 +14,14 @@
         <module>cloud-server-consume</module>
         <module>cloud-server-consumer-feign</module>
         <module>cloud-config-server</module>
+        <module>cloud-config-repo</module>
+        <module>cloud-config-starter</module>
+        <module>cloud-zuul-gateway</module>
     </modules>
+    <dependencies>
+
+
+    </dependencies>
 
 
 </project>
